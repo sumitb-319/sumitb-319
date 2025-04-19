@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about transforming raw data into va
 
 ## 🚀 About Me
 
-- 🎓 BE in Information Technology | [Your University Name]
+- 🎓 BE in Information Technology | [VCET, Vasai]
 - 📚 Interested in **Data Engineering**, **ETL Pipelines**, **Cloud Technologies**, and **Dashboards**
 - 🛠️ Currently learning: `AWS`, `GCP`, `Apache Airflow`, `dbt`, `Power BI`, `Docker`
 - 💼 Looking for full-time opportunities in **Data Engineering** and **Business Intelligence**
